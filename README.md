@@ -14,7 +14,7 @@ Our deep learning model classifies lake waste into the following categories:
 - **Organic Waste**
 
 ## Dataset Preparation
-We collected and annotated **277 images** of lake waste from various sources, ensuring diversity in lighting conditions, angles, and environmental factors. The dataset was manually labeled and preprocessed for training.
+We collected and annotated **777 images** of lake waste from various sources, ensuring diversity in lighting conditions, angles, and environmental factors. The dataset was manually labeled and preprocessed for training.
 
 ### Data Augmentation
 To improve model generalization, we applied the following data augmentation techniques:
